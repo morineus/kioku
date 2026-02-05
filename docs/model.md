@@ -13,6 +13,7 @@
 | id         | 文章唯一标识符                            | 否                 |
 | slug       | 文章 URL 别名                             | 否                 |
 | title      | 文章标题                                  | 是                 |
+| locale     | 文章语言代码（zh/en/jp）                  | 否                 |
 | renderType | 渲染方式（tech/life）                     | 否                 |
 | category   | 文章分类                                  | 是                 |
 | series     | 文章系列/专栏（与分类不同的文章收录方式） | 是                 |
